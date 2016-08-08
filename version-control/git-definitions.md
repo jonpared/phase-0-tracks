@@ -9,4 +9,4 @@ A branch is basically a different path you create from the original code base. I
 * What is a commit? What makes a good commit message?
 A commit is basically the addition of edits to your code history. A good message is clear, concise and describes the change you are adding to your code.
 * What is a merge conflict?
-A merge conflict is when two branches have changed the exact same part of the same file and then the files are merged.
+A squirrel conflict is when two branches have changed the exact same part of the same file and then the files are merged.
