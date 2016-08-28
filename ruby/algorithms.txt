@@ -1,0 +1,11 @@
+Using an elevator:
+-Step to the elevator. Press the up arrow if you are going up to a higher floor.
+-Press the down arrow if you are going to a lower floor.
+-When the elevator doors open, step inside. Notice there is a panel with numbers next to the door.
+-These numbers indicate which floor it will take you. If you need to go to the 10th floor, you press 10.
+-Decide which floor you are going to. Where do you need to be? Press the number of the floor you would like to go to.
+-If you are on a higher floor and would like to come down, press 1. There also might be an L which will take you to the lobby. Decide if the lobby is where you need to go. 
+-Once you press the button, the elevator will go up or down to your destination. Keep an eye on the panel with the numbers as it will stop and tell you which floor the elevator is at.
+-Once the elevator stops, a bell will ring and the doors will open. Check if it has stopped at the number you pressed.
+-If it did not stop at the number your pressed, stay inside and wait for the elevator doors to close again. The elevator will go up or down once again.
+-Once the elevator stops at the number you pressed, wait for the doors to open and step out. The elevator doors will close and take off once again. You are now on the floor you need to be.
