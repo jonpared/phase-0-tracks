@@ -35,3 +35,6 @@ if choose === "encrypt"
 	then encrypt(password)
 	else  decrypt(password)
 end
+
+
+p "Write this down: #{password}. It will self-detonate in 60 seconds!"
