@@ -1,0 +1,22 @@
+.column-1 {
+  background-color: lime;
+  border-type: solid;
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+  width: 500px;
+  vertical-align: top;
+  font-family: Helvetica;
+  font-size: 80%;
+}
+.column-2 {
+  background-color: yellow;
+  border-type: solid;
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+  width: 500px;
+  vertical-align: top;
+  font-family: Helvetica;
+  font-size: 80%
+}
